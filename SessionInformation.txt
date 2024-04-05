@@ -1,0 +1,4 @@
+Hello! If you're seeing this, you're probably attending my session at the Lakota Cyber Academy-hosted Cyber Summit! 
+My session will be covering Password Cracking activities with the Kali tool John The Ripper.
+This exercise could be used in any base-level cybersecurity class, and would work great in any Cryptography, Social Engineering, or Penetration Testing units. 
+If you would like to use this activity, feel free! Email me at BRScribner@outlook.com with any questions. 
